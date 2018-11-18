@@ -1,0 +1,11 @@
+D:\C#\Epam\Lesson1\Task1\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.deps.json
+D:\C#\Epam\Lesson1\Task1\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.runtimeconfig.json
+D:\C#\Epam\Lesson1\Task1\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.runtimeconfig.dev.json
+D:\C#\Epam\Lesson1\Task1\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.dll
+D:\C#\Epam\Lesson1\Task1\Task1\Task1\bin\Debug\netcoreapp2.1\Task1.pdb
+D:\C#\Epam\Lesson1\Task1\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.csprojAssemblyReference.cache
+D:\C#\Epam\Lesson1\Task1\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.csproj.CoreCompileInputs.cache
+D:\C#\Epam\Lesson1\Task1\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.AssemblyInfoInputs.cache
+D:\C#\Epam\Lesson1\Task1\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.AssemblyInfo.cs
+D:\C#\Epam\Lesson1\Task1\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.dll
+D:\C#\Epam\Lesson1\Task1\Task1\Task1\obj\Debug\netcoreapp2.1\Task1.pdb

@@ -1,0 +1,11 @@
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Square\Epam.Lesson1.Square\bin\Debug\netcoreapp2.1\Epam.Lesson1.Square.deps.json
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Square\Epam.Lesson1.Square\bin\Debug\netcoreapp2.1\Epam.Lesson1.Square.runtimeconfig.json
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Square\Epam.Lesson1.Square\bin\Debug\netcoreapp2.1\Epam.Lesson1.Square.runtimeconfig.dev.json
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Square\Epam.Lesson1.Square\bin\Debug\netcoreapp2.1\Epam.Lesson1.Square.dll
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Square\Epam.Lesson1.Square\bin\Debug\netcoreapp2.1\Epam.Lesson1.Square.pdb
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Square\Epam.Lesson1.Square\obj\Debug\netcoreapp2.1\Epam.Lesson1.Square.csprojAssemblyReference.cache
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Square\Epam.Lesson1.Square\obj\Debug\netcoreapp2.1\Epam.Lesson1.Square.csproj.CoreCompileInputs.cache
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Square\Epam.Lesson1.Square\obj\Debug\netcoreapp2.1\Epam.Lesson1.Square.AssemblyInfoInputs.cache
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Square\Epam.Lesson1.Square\obj\Debug\netcoreapp2.1\Epam.Lesson1.Square.AssemblyInfo.cs
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Square\Epam.Lesson1.Square\obj\Debug\netcoreapp2.1\Epam.Lesson1.Square.dll
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Square\Epam.Lesson1.Square\obj\Debug\netcoreapp2.1\Epam.Lesson1.Square.pdb
