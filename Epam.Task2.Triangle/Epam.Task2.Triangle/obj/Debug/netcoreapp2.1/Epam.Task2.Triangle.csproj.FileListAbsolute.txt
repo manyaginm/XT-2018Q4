@@ -1,0 +1,11 @@
+C:\C#\Epam.Task2.Triangle\Epam.Task2.Triangle\bin\Debug\netcoreapp2.1\Epam.Task2.Triangle.deps.json
+C:\C#\Epam.Task2.Triangle\Epam.Task2.Triangle\bin\Debug\netcoreapp2.1\Epam.Task2.Triangle.runtimeconfig.json
+C:\C#\Epam.Task2.Triangle\Epam.Task2.Triangle\bin\Debug\netcoreapp2.1\Epam.Task2.Triangle.runtimeconfig.dev.json
+C:\C#\Epam.Task2.Triangle\Epam.Task2.Triangle\bin\Debug\netcoreapp2.1\Epam.Task2.Triangle.dll
+C:\C#\Epam.Task2.Triangle\Epam.Task2.Triangle\bin\Debug\netcoreapp2.1\Epam.Task2.Triangle.pdb
+C:\C#\Epam.Task2.Triangle\Epam.Task2.Triangle\obj\Debug\netcoreapp2.1\Epam.Task2.Triangle.csproj.CoreCompileInputs.cache
+C:\C#\Epam.Task2.Triangle\Epam.Task2.Triangle\obj\Debug\netcoreapp2.1\Epam.Task2.Triangle.AssemblyInfoInputs.cache
+C:\C#\Epam.Task2.Triangle\Epam.Task2.Triangle\obj\Debug\netcoreapp2.1\Epam.Task2.Triangle.AssemblyInfo.cs
+C:\C#\Epam.Task2.Triangle\Epam.Task2.Triangle\obj\Debug\netcoreapp2.1\Epam.Task2.Triangle.dll
+C:\C#\Epam.Task2.Triangle\Epam.Task2.Triangle\obj\Debug\netcoreapp2.1\Epam.Task2.Triangle.pdb
+C:\C#\Epam.Task2.Triangle\Epam.Task2.Triangle\obj\Debug\netcoreapp2.1\Epam.Task2.Triangle.csprojAssemblyReference.cache
