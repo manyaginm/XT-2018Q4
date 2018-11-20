@@ -1,0 +1,11 @@
+C:\C#\Epam.Task2.NumOfNumbers\Epam.Task2.NumOfNumbers\bin\Debug\netcoreapp2.1\Epam.Task2.NumOfNumbers.deps.json
+C:\C#\Epam.Task2.NumOfNumbers\Epam.Task2.NumOfNumbers\bin\Debug\netcoreapp2.1\Epam.Task2.NumOfNumbers.runtimeconfig.json
+C:\C#\Epam.Task2.NumOfNumbers\Epam.Task2.NumOfNumbers\bin\Debug\netcoreapp2.1\Epam.Task2.NumOfNumbers.runtimeconfig.dev.json
+C:\C#\Epam.Task2.NumOfNumbers\Epam.Task2.NumOfNumbers\bin\Debug\netcoreapp2.1\Epam.Task2.NumOfNumbers.dll
+C:\C#\Epam.Task2.NumOfNumbers\Epam.Task2.NumOfNumbers\bin\Debug\netcoreapp2.1\Epam.Task2.NumOfNumbers.pdb
+C:\C#\Epam.Task2.NumOfNumbers\Epam.Task2.NumOfNumbers\obj\Debug\netcoreapp2.1\Epam.Task2.NumOfNumbers.csprojAssemblyReference.cache
+C:\C#\Epam.Task2.NumOfNumbers\Epam.Task2.NumOfNumbers\obj\Debug\netcoreapp2.1\Epam.Task2.NumOfNumbers.csproj.CoreCompileInputs.cache
+C:\C#\Epam.Task2.NumOfNumbers\Epam.Task2.NumOfNumbers\obj\Debug\netcoreapp2.1\Epam.Task2.NumOfNumbers.AssemblyInfoInputs.cache
+C:\C#\Epam.Task2.NumOfNumbers\Epam.Task2.NumOfNumbers\obj\Debug\netcoreapp2.1\Epam.Task2.NumOfNumbers.AssemblyInfo.cs
+C:\C#\Epam.Task2.NumOfNumbers\Epam.Task2.NumOfNumbers\obj\Debug\netcoreapp2.1\Epam.Task2.NumOfNumbers.dll
+C:\C#\Epam.Task2.NumOfNumbers\Epam.Task2.NumOfNumbers\obj\Debug\netcoreapp2.1\Epam.Task2.NumOfNumbers.pdb
