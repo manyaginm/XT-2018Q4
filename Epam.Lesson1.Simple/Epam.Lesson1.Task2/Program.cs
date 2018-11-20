@@ -22,14 +22,12 @@ namespace Epam.Lesson1.Task2
         }
        
         static void Main(string[] args)        {
-            var k = "";
-            while (k.ToString().ToUpper() != "Q")
-            {
-                Console.WriteLine("Enter the number");
-                k = Console.ReadLine();
-                int p = Convert.ToInt32(k);
+            
+            
+                Console.WriteLine("Enter the number");               
+                int p = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine(isSimple(p)?"Simple":"Not simple");
-            }
+            
         }
     }
 }

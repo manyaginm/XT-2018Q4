@@ -9,3 +9,14 @@ C:\Users\manya\source\repos\Epam.Lesson1.Task2\Epam.Lesson1.Task2\obj\Debug\netc
 C:\Users\manya\source\repos\Epam.Lesson1.Task2\Epam.Lesson1.Task2\obj\Debug\netcoreapp2.1\Epam.Lesson1.Task2.AssemblyInfo.cs
 C:\Users\manya\source\repos\Epam.Lesson1.Task2\Epam.Lesson1.Task2\obj\Debug\netcoreapp2.1\Epam.Lesson1.Task2.dll
 C:\Users\manya\source\repos\Epam.Lesson1.Task2\Epam.Lesson1.Task2\obj\Debug\netcoreapp2.1\Epam.Lesson1.Task2.pdb
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Simple\Epam.Lesson1.Task2\bin\Debug\netcoreapp2.1\Epam.Lesson1.Task2.deps.json
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Simple\Epam.Lesson1.Task2\bin\Debug\netcoreapp2.1\Epam.Lesson1.Task2.runtimeconfig.json
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Simple\Epam.Lesson1.Task2\bin\Debug\netcoreapp2.1\Epam.Lesson1.Task2.runtimeconfig.dev.json
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Simple\Epam.Lesson1.Task2\bin\Debug\netcoreapp2.1\Epam.Lesson1.Task2.dll
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Simple\Epam.Lesson1.Task2\bin\Debug\netcoreapp2.1\Epam.Lesson1.Task2.pdb
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Simple\Epam.Lesson1.Task2\obj\Debug\netcoreapp2.1\Epam.Lesson1.Task2.csprojAssemblyReference.cache
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Simple\Epam.Lesson1.Task2\obj\Debug\netcoreapp2.1\Epam.Lesson1.Task2.csproj.CoreCompileInputs.cache
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Simple\Epam.Lesson1.Task2\obj\Debug\netcoreapp2.1\Epam.Lesson1.Task2.AssemblyInfoInputs.cache
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Simple\Epam.Lesson1.Task2\obj\Debug\netcoreapp2.1\Epam.Lesson1.Task2.AssemblyInfo.cs
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Simple\Epam.Lesson1.Task2\obj\Debug\netcoreapp2.1\Epam.Lesson1.Task2.dll
+D:\C#\XT-2018Q4\Epam\Epam.Lesson1.Simple\Epam.Lesson1.Task2\obj\Debug\netcoreapp2.1\Epam.Lesson1.Task2.pdb

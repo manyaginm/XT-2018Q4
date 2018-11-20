@@ -31,23 +31,18 @@ namespace Epam.Lesson1.Square
         }
         static void Main(string[] args)
         {
-            var k = "";
-            while (k.ToUpper().ToString() != "Q")
-            {
+           
                 Console.WriteLine("Enter the number");
-                k = Console.ReadLine();
-                if (Convert.ToInt32(k) % 2 == 0)
+                int k = Convert.ToInt32(Console.ReadLine());
+                while (k % 2 == 0)
                 {
                     Console.WriteLine("Enter the number");
-                    k = Console.ReadLine();
-                }
-                else
-                {
-                    printSquare(Convert.ToInt32(k));
-                    Console.ReadLine();
-                }
+                    k = Convert.ToInt32(Console.ReadLine());
+                }                
+                printSquare(k);                    
+               
                 
-            }
+            
         }
     }
 }

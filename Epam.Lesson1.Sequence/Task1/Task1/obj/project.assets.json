@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Epam\\Lesson1\\Task1\\Task1\\Task1\\Task1.csproj",
+      "projectUniqueName": "D:\\C#\\XT-2018Q4\\Epam\\Epam.Lesson1.Sequence\\Task1\\Task1\\Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "D:\\C#\\Epam\\Lesson1\\Task1\\Task1\\Task1\\Task1.csproj",
+      "projectPath": "D:\\C#\\XT-2018Q4\\Epam\\Epam.Lesson1.Sequence\\Task1\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\manya\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Epam\\Lesson1\\Task1\\Task1\\Task1\\obj\\",
+      "outputPath": "D:\\C#\\XT-2018Q4\\Epam\\Epam.Lesson1.Sequence\\Task1\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
