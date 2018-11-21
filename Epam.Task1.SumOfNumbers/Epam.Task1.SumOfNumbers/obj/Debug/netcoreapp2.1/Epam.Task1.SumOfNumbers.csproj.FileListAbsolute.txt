@@ -1,0 +1,11 @@
+D:\XT-2018Q4\Epam.Task1.SumOfNumbers\Epam.Task1.SumOfNumbers\bin\Debug\netcoreapp2.1\Epam.Task1.SumOfNumbers.deps.json
+D:\XT-2018Q4\Epam.Task1.SumOfNumbers\Epam.Task1.SumOfNumbers\bin\Debug\netcoreapp2.1\Epam.Task1.SumOfNumbers.runtimeconfig.json
+D:\XT-2018Q4\Epam.Task1.SumOfNumbers\Epam.Task1.SumOfNumbers\bin\Debug\netcoreapp2.1\Epam.Task1.SumOfNumbers.runtimeconfig.dev.json
+D:\XT-2018Q4\Epam.Task1.SumOfNumbers\Epam.Task1.SumOfNumbers\bin\Debug\netcoreapp2.1\Epam.Task1.SumOfNumbers.dll
+D:\XT-2018Q4\Epam.Task1.SumOfNumbers\Epam.Task1.SumOfNumbers\bin\Debug\netcoreapp2.1\Epam.Task1.SumOfNumbers.pdb
+D:\XT-2018Q4\Epam.Task1.SumOfNumbers\Epam.Task1.SumOfNumbers\obj\Debug\netcoreapp2.1\Epam.Task1.SumOfNumbers.csprojAssemblyReference.cache
+D:\XT-2018Q4\Epam.Task1.SumOfNumbers\Epam.Task1.SumOfNumbers\obj\Debug\netcoreapp2.1\Epam.Task1.SumOfNumbers.csproj.CoreCompileInputs.cache
+D:\XT-2018Q4\Epam.Task1.SumOfNumbers\Epam.Task1.SumOfNumbers\obj\Debug\netcoreapp2.1\Epam.Task1.SumOfNumbers.AssemblyInfoInputs.cache
+D:\XT-2018Q4\Epam.Task1.SumOfNumbers\Epam.Task1.SumOfNumbers\obj\Debug\netcoreapp2.1\Epam.Task1.SumOfNumbers.AssemblyInfo.cs
+D:\XT-2018Q4\Epam.Task1.SumOfNumbers\Epam.Task1.SumOfNumbers\obj\Debug\netcoreapp2.1\Epam.Task1.SumOfNumbers.dll
+D:\XT-2018Q4\Epam.Task1.SumOfNumbers\Epam.Task1.SumOfNumbers\obj\Debug\netcoreapp2.1\Epam.Task1.SumOfNumbers.pdb
