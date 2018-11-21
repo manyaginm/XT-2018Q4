@@ -1,0 +1,11 @@
+D:\XT-2018Q4\Epam.Task1.Triangle\Epam.Task1.Triangle\bin\Debug\netcoreapp2.1\Epam.Task1.Triangle.deps.json
+D:\XT-2018Q4\Epam.Task1.Triangle\Epam.Task1.Triangle\bin\Debug\netcoreapp2.1\Epam.Task1.Triangle.runtimeconfig.json
+D:\XT-2018Q4\Epam.Task1.Triangle\Epam.Task1.Triangle\bin\Debug\netcoreapp2.1\Epam.Task1.Triangle.runtimeconfig.dev.json
+D:\XT-2018Q4\Epam.Task1.Triangle\Epam.Task1.Triangle\bin\Debug\netcoreapp2.1\Epam.Task1.Triangle.dll
+D:\XT-2018Q4\Epam.Task1.Triangle\Epam.Task1.Triangle\bin\Debug\netcoreapp2.1\Epam.Task1.Triangle.pdb
+D:\XT-2018Q4\Epam.Task1.Triangle\Epam.Task1.Triangle\obj\Debug\netcoreapp2.1\Epam.Task1.Triangle.csprojAssemblyReference.cache
+D:\XT-2018Q4\Epam.Task1.Triangle\Epam.Task1.Triangle\obj\Debug\netcoreapp2.1\Epam.Task1.Triangle.csproj.CoreCompileInputs.cache
+D:\XT-2018Q4\Epam.Task1.Triangle\Epam.Task1.Triangle\obj\Debug\netcoreapp2.1\Epam.Task1.Triangle.AssemblyInfoInputs.cache
+D:\XT-2018Q4\Epam.Task1.Triangle\Epam.Task1.Triangle\obj\Debug\netcoreapp2.1\Epam.Task1.Triangle.AssemblyInfo.cs
+D:\XT-2018Q4\Epam.Task1.Triangle\Epam.Task1.Triangle\obj\Debug\netcoreapp2.1\Epam.Task1.Triangle.dll
+D:\XT-2018Q4\Epam.Task1.Triangle\Epam.Task1.Triangle\obj\Debug\netcoreapp2.1\Epam.Task1.Triangle.pdb
