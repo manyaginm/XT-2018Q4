@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVERAGE STRING LENGTH", "AVERAGE STRING LENGTH\AVERAGE STRING LENGTH.csproj", "{0582F1C6-BBEF-433D-8C9E-5E0999CE0B20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAR DOUBLER", "..\CHAR DOUBLER\CHAR DOUBLER.csproj", "{8063E796-F479-43BF-B413-C4C6E820316E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0582F1C6-BBEF-433D-8C9E-5E0999CE0B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0582F1C6-BBEF-433D-8C9E-5E0999CE0B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0582F1C6-BBEF-433D-8C9E-5E0999CE0B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8063E796-F479-43BF-B413-C4C6E820316E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8063E796-F479-43BF-B413-C4C6E820316E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8063E796-F479-43BF-B413-C4C6E820316E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8063E796-F479-43BF-B413-C4C6E820316E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
