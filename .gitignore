@@ -1,0 +1,11 @@
+*.pdb
+*.cache
+Epam.Task01.NonNegativeSum/Epam.Task01.NonNegativeSum/obj/Epam.Task01.NonNegativeSum.csproj.nuget.g.props
+*.targets
+*.ide-wal
+*.ide-shm
+*.ide
+*.lock
+*.csproj
+*.suo
+*.dtbcache
