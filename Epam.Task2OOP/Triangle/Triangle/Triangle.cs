@@ -10,7 +10,41 @@ namespace Triangle
         private int b;
         private int c;
 
+        public int A
+        {
+            get { return this.a; }
+            set {
+                if (value > 0) { this.a = value; }
+                else
+                {
+                    throw new ArgumentException ();
+                }
+            }
+        }
 
+        public int B
+        {
+            get { return this.b; }
+            set
+            {
+                if (value > 0) { this.b = value; }
+                else
+                {
+                    throw new ArgumentException();
+                }
+            }
+        }
+        public int C
+        {
+            get { return this.c; }
+            set {
+                if (value > 0) { this.c = value; }
+                else
+                {
+                    throw new ArgumentException();
+                }
+            }
+        }
         public Triangle() :this(1,1,1){}
         public Triangle(int a, int b, int c)
         {
