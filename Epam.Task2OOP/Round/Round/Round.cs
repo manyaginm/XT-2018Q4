@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Round
 {
-    class Round
+    class Round : RoundShape
     {
         private int center;
         private int radius;
@@ -25,12 +25,12 @@ namespace Round
             this.radius = radius;
         }
 
-        public double getLength()
+        public override double getLength()
         {
             return 2 * Math.PI * this.radius;
         }
 
-        public double getSquare()
+        public override double getSquare()
         {
             return Math.PI * radius * radius;
         }

@@ -4,8 +4,8 @@ using System.Text;
 
 namespace Triangle
 {
-    class Triangle
-    {
+    class Triangle : Shape
+        {
         private int a;
         private int b;
         private int c;
@@ -53,16 +53,17 @@ namespace Triangle
             this.c = c;
         }
 
-        public int getPerimeter()
+        public override double getPeremiter()
         {
-            return (a * b) + (b * c) + (a * c);
+            return ((a * b) + (b * c) + (a * c)) * 1.0;
         }
 
-        public double getSquare()
+        public override double getSquare()
         {
             int p = ((a * b) + (b * c) + (a * c)) / 2;
 
             return Math.Sqrt(p * (p - a) * (p - b) * (p - c));
         }
+       
     }
 }
