@@ -7,8 +7,14 @@ namespace Round
     public abstract class RoundShape
     {
 
-        public abstract  double getLength();
+        public virtual double getLength()
+        {
+            return 0.0;
+        }
 
-        public abstract  double getSquare();
+        public virtual double getSquare()
+        {
+            return 0.0;
+        }
     }
 }

@@ -6,7 +6,9 @@ namespace Triangle
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Shape triangle = new Triangle(10, 15, 20);
+            Console.WriteLine(triangle.getPeremiter());
+            Console.WriteLine(triangle.getSquare());
         }
     }
 }

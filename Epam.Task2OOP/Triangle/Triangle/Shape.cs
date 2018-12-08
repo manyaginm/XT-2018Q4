@@ -6,8 +6,15 @@ namespace Triangle
 {
    public abstract class Shape
     {
-       
-        public abstract double getPeremiter();
-        public abstract double getSquare();
+
+        public virtual double getPeremiter()
+        {
+            return 0.0;
+        }
+
+        public virtual double getSquare()
+        {
+            return 0.0;
+        }
     }
 }
