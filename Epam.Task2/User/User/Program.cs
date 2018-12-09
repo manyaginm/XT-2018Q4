@@ -14,11 +14,21 @@ namespace User
             string lName = Console.ReadLine();
             Console.WriteLine("Enter date of birth in format year-month-day");
             string birthDate = Console.ReadLine();
+            Console.WriteLine("Enter position");
+            string position = Console.ReadLine();
+            Console.WriteLine("Enter Years in company");
+            int yearsInComp = int.Parse(Console.ReadLine());
+
 
             User u = new User(fName, lName, mName, birthDate);
-
+            Console.WriteLine("As user:");
             Console.WriteLine(u.getInfo());
-           
+            Employee e = new Employee(fName, lName, mName, birthDate, yearsInComp, position);
+            Console.WriteLine("As employee");
+            Console.WriteLine(e.getInfo());
+
+
+
         }
     }
 }

@@ -31,9 +31,9 @@ namespace User
         public string getInfo()
         {
             return "First Name: "+ this.fName + " Middle Name: " + this.mName + " Last Name: "+ this.lName
-                +" Date of birth: "+this.dateOfBirth.ToString()+" Age: " + getAge(this.dateOfBirth) ;
+                +" Date of birth: "+this.dateOfBirth.Date.ToString()+" Age: " + getAge(this.dateOfBirth) ;
         }
-        static private int getAge(DateTime dateOfBirth)
+        static protected int getAge(DateTime dateOfBirth)
         {
             DateTime g = new DateTime((DateTime.Now.Date - dateOfBirth.Date).Ticks);
             int x = (g.Year-1);
