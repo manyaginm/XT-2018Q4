@@ -4,7 +4,12 @@ using System.Text;
 
 namespace Round
 {
-    class Shape
+    abstract  class Shape
     {
+        public abstract double getLength();
+        public abstract double getSquare();
+        public abstract String getCoordinates();
+
+
     }
 }
