@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Round", "Round\Round.csproj", "{B5FB6E6A-C5E9-4F7A-9D20-CD276713CAF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Round", "Round\Round.csproj", "{B5FB6E6A-C5E9-4F7A-9D20-CD276713CAF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "..\Triangle\Triangle\Triangle.csproj", "{01FFB498-FB7B-44E7-8ADC-C1790F163DCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle", "..\Triangle\Triangle\Triangle.csproj", "{01FFB498-FB7B-44E7-8ADC-C1790F163DCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User", "..\User\User\User.csproj", "{B345C424-8FE8-476F-913E-C678886B54AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "User", "..\User\User\User.csproj", "{B345C424-8FE8-476F-913E-C678886B54AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee", "..\Employee\Employee\Employee.csproj", "{E3C8890F-1C81-4D3E-9396-58DFA4584E18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{B345C424-8FE8-476F-913E-C678886B54AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B345C424-8FE8-476F-913E-C678886B54AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B345C424-8FE8-476F-913E-C678886B54AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C8890F-1C81-4D3E-9396-58DFA4584E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C8890F-1C81-4D3E-9396-58DFA4584E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C8890F-1C81-4D3E-9396-58DFA4584E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C8890F-1C81-4D3E-9396-58DFA4584E18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

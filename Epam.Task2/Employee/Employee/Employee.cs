@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 using System.Text;
 
-namespace User
+namespace Employee
 {
     class Employee : User
     {
@@ -11,7 +13,7 @@ namespace User
 
         public Employee() { }
 
-        public Employee (string fName, string lName, string mName, string dateOfBirth, int yearInCompany, string position) 
+        public Employee(string fName, string lName, string mName, string dateOfBirth, int yearInCompany, string position)
             : base(fName, lName, mName, dateOfBirth)
         {
             this.position = position;
@@ -25,7 +27,7 @@ namespace User
         {
             return "First Name: " + this.FName + " Middle Name: " + this.MName + " Last Name: " + this.LName
                 + " Date of birth: " + this.DateOfBirth.Date.ToString() + " Age: " + User.getAge(this.DateOfBirth)
-                + " Position " + this.Position + " Year in company: "+this.YearInCompany;
+                + " Position " + this.Position + " Year in company: " + this.YearInCompany;
         }
     }
 }
