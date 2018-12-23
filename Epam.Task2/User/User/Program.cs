@@ -23,9 +23,7 @@ namespace User
             User u = new User(fName, lName, mName, birthDate);
             Console.WriteLine("As user:");
             Console.WriteLine(u.getInfo());
-            Employee e = new Employee(fName, lName, mName, birthDate, yearsInComp, position);
-            Console.WriteLine("As employee");
-            Console.WriteLine(e.getInfo());
+           
 
 
 
