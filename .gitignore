@@ -9,3 +9,4 @@ Epam.Task01.NonNegativeSum/Epam.Task01.NonNegativeSum/obj/Epam.Task01.NonNegativ
 *.csproj
 *.suo
 *.dtbcache
+/bin/Debug/*
