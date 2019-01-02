@@ -38,6 +38,7 @@ namespace Lost
                 queue = null;
                 queue =  tmpQueue;
             }
+            Console.WriteLine("In queue now {0} people", queue.Count);
            
         }
     }

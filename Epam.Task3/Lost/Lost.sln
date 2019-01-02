@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lost", "Lost\Lost.csproj", "{5230A7AA-F7E7-448F-98AD-AEA110523B7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lost", "Lost\Lost.csproj", "{5230A7AA-F7E7-448F-98AD-AEA110523B7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFrequency", "..\WordFrequency\WordFrequency\WordFrequency.csproj", "{256913E8-BF6C-4400-8999-CA1DFA48D09E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5230A7AA-F7E7-448F-98AD-AEA110523B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5230A7AA-F7E7-448F-98AD-AEA110523B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5230A7AA-F7E7-448F-98AD-AEA110523B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{256913E8-BF6C-4400-8999-CA1DFA48D09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256913E8-BF6C-4400-8999-CA1DFA48D09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256913E8-BF6C-4400-8999-CA1DFA48D09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256913E8-BF6C-4400-8999-CA1DFA48D09E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
