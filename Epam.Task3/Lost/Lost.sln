@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lost", "Lost\Lost.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFrequency", "..\WordFrequency\WordFrequency\WordFrequency.csproj", "{256913E8-BF6C-4400-8999-CA1DFA48D09E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArray", "..\DynamicArray\DynamicArray\DynamicArray.csproj", "{BABAE249-15B1-4CEF-B1B9-3E21C47363FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{256913E8-BF6C-4400-8999-CA1DFA48D09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{256913E8-BF6C-4400-8999-CA1DFA48D09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{256913E8-BF6C-4400-8999-CA1DFA48D09E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABAE249-15B1-4CEF-B1B9-3E21C47363FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABAE249-15B1-4CEF-B1B9-3E21C47363FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABAE249-15B1-4CEF-B1B9-3E21C47363FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABAE249-15B1-4CEF-B1B9-3E21C47363FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
